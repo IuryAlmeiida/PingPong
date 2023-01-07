@@ -16,6 +16,7 @@ Os requisitos para a máquina a ser utilizada são:
 1. Baixe e instale a versão mais recente de Python em sua máquina através do link: https://www.python.org/downloads/
 2. Instale o pygame abrindo o Prompt de Comando e digitando (Windows): pip install pygame
 3. Caso ainda não possua, siga as instruções para baixar e instalar o OpenGL: https://medium.com/swlh/setting-opengl-for-windows-d0b45062caf
+4. Installe a biblioteca do python para chamar o Opengl - abra o Prompt de Comando e digitando (Windows): pip install pyopengl
 
 **- Executando os testes -**
 
